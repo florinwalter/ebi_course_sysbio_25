@@ -7,8 +7,9 @@ To run this tutorial, first set up micromamba on your computer using
 Then, create a new environment with Python 3.11 using the commands
 
 `micromamba create -n ebi_mofa -c conda-forge python==3.11`
+
 `micromamba activate ebi_mofa`
 
-Then, install the required packages using the following command:
+Then, install the required packages using
 
 `pip install mofaflex plotnine gseapy`
