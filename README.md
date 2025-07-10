@@ -1,4 +1,4 @@
-# Mutli-Omics Integration for Personalized Medicine Using MOFA
+# Multi-Omics Integration for Personalized Medicine Using MOFA
 
 To run this tutorial, first set up micromamba on your computer using
 
